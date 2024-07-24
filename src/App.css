@@ -1,0 +1,113 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.app{
+    background-image:url('./imgs/wap.jpg');
+    
+    background-size: 100% auto;
+    background-repeat: no-repeat;
+    width: 100%;
+    min-height: 120vh;}
+.navbar{
+    background-color: #ffffff;
+    opacity: 0.9;
+    box-shadow: 5px 3px 5px rgb(95, 95, 95); 
+
+height: auto;
+}
+.logo{
+    height: 100px;
+}
+.card-1{
+background-image: linear-gradient(to bottom, #ff8a8a, #ff0099);
+box-shadow: 5px 2px 5px rgb(95, 95, 95);
+width: 300px;
+padding: 20px;
+}
+
+.card-2{
+    background-image: linear-gradient(to bottom, #6dd5ed, #2193b0);
+    box-shadow: 5px 2px 5px rgb(95, 95, 95);
+    width: 300px;
+    padding: 20px;
+    }
+.card-3{
+    background-image: linear-gradient(to bottom, #e8e8e9, #DFDFE0);
+    box-shadow: 5px 2px 5px rgb(95, 95, 95);
+    width: 300px;
+    padding: 20px;
+    }
+    .card-4{
+        background-image: linear-gradient(to bottom, #49f660, #00bb19);
+        box-shadow: 5px 2px 5px rgb(95, 95, 95);
+        width: 300px;
+        height: 388px;
+        padding: 20px;
+        }
+        .card-5{
+            background-image: linear-gradient(to bottom, #FDC830, #F37335);
+            box-shadow: 5px 2px 5px rgb(95, 95, 95);
+            width: 300px;
+            height: 388px;
+
+            padding: 20px;
+            }
+
+.card-6{
+    background-image: linear-gradient(to bottom, #b7ff00, #bcb900);
+    box-shadow: 5px 2px 5px rgb(95, 95, 95);
+    width: 300px;
+    padding: 20px;
+    height: 388px;
+
+    border: 0.5px solid black;
+            }
+
+
+.card-contain{
+    width: 60%;
+    margin-left: 15%;
+    margin-top: 40px;
+    display: grid;
+    grid-template-columns:  1fr 1fr 1fr;
+   
+    grid-gap: 40px;
+}
+.bg5{
+    width: 250px;
+    height:150px ;
+}
+
+.button{
+
+    font-family:  Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+
+    background-color: #ffffff;
+    text-align: center;
+    margin-top: 15px;
+    padding: 5px;
+}
+.button:hover{
+    background-color: black;
+}
+.link:hover{
+    color: rgb(255, 255, 255);
+}
+
+
+
+.link{
+        text-decoration: none;
+ color: black;
+}
+h2{
+    margin: 10px;
+   font-size: 22px;
+}
+
+

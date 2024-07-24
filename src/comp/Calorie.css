@@ -1,0 +1,16 @@
+.calorie{border-color: brown;}
+.activity{
+  
+    width: 60%;
+    margin-left: 20%;
+    padding: 5px;
+    border-radius: 10px ;
+
+
+    box-shadow: 0px 2px 2px 1px rgb(0, 0, 0.2);
+  }
+  .Activity{
+    margin-top: 15px;
+    margin-bottom: 15px;
+
+  }

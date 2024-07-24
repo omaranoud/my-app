@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "full_name": "sohs",
+      "email": "shssm@gmail.com",
+      "weight": "120",
+      "height": "184",
+      "bmi": "27.76",
+      "id": 13
+    },
+    {
+      "full_name": "othmane",
+      "email": "othman@gmail.com",
+      "weight": "85",
+      "height": "184",
+      "bmi": 0,
+      "id": 14
+    }
+  ]
+}
